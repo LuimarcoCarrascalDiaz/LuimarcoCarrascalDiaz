@@ -28,13 +28,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?LuimarcoCarrascalDiaz=LuimarcoCarrascalDiaz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?yourusername=youtusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?LuimarcoCarrascalDiaz=LuimarcoCarrascalDiaz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?yourusername=yourusername&layout=compact&theme=radical)
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/luimarco-carrascal-diaz-914a88146/)
+- [Email](mailto:luimarco98@gmail.com)
 - [Website](https://yourwebsite.com)
 
 ## 👨‍💻 Projects
