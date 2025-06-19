@@ -37,11 +37,7 @@
 - [Email](mailto:luimarco98@gmail.com)
 - [Website](https://yourwebsite.com)
 
-## 👨‍💻 Projects
-Here are a few of my open-source projects:
 
-- **[Project 1](https://github.com/yourusername/project1)**: Short description.
-- **[Project 2](https://github.com/yourusername/project2)**: Short description.
 
 Feel free to explore my repositories and contribute to any project you find interesting!
 
